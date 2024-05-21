@@ -1,2 +1,2 @@
 # Christmas-Dinner-List
-This repo is for my personal projects - this one is a christmas dinner list program to help me keep up-to-date with shopping!
+This repo is a christmas dinner list program to help me keep up-to-date with shopping! Using append/pop etc. and writing to txt file/
